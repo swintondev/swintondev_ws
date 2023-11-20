@@ -77,6 +77,7 @@ body {
 
 h1 {
     font-size: 3em;
+    margin: 1vh;
 }
 
 h2 {
@@ -97,4 +98,14 @@ h2 {
 
 .button:hover {
     background-color: #428397;
+}
+
+img {
+    max-width: 200px;
+    height: auto;
+    padding: 1vh;
+}
+
+a {
+    padding: 1vh;
 }
